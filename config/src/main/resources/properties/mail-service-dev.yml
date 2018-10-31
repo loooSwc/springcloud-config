@@ -1,0 +1,9 @@
+name: cxy
+#name: cxy32
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://10.8.5.100:3306/acmtc
+    url: jdbc:mysql://10.8.3.40:3306/acmtc
+    username: root
+    password: root
